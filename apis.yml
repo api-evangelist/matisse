@@ -1,72 +1,19 @@
+aid: matisse
 name: Matisse
-description: Matisse is a collection of APIs for creative and artistic applications
-url: https://matisse.example.com
+description: >-
+  Matisse is a placeholder or template entry. No verified developer portal or
+  public API has been identified for this provider.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/matisse/refs/heads/main/apis.yml
+tags:
+  - API
 created: '2024-01-15'
-modified: '2024-01-15'
-apis:
-- name: Matisse Color Palette API
-  description: Generate and manage color palettes inspired by Henri Matisse's artistic style
-  humanUrl: https://matisse.example.com/color-palette
-  baseUrl: https://api.matisse.example.com/v1/palette
-  tags:
-  - colors
-  - palettes
-  - art
-  - design
-  properties:
-  - type: Documentation
-    url: https://docs.matisse.example.com/palette
-  - type: OpenAPI
-    url: https://api.matisse.example.com/v1/palette/openapi.json
-  - type: Authentication
-    url: https://docs.matisse.example.com/authentication
-  contact:
-  - type: Support
-    url: https://matisse.example.com/support
-  - type: Email
-    url: mailto:support@matisse.example.com
-- name: Matisse Canvas API
-  description: Create and manipulate digital canvases with artistic filters and effects
-  humanUrl: https://matisse.example.com/canvas
-  baseUrl: https://api.matisse.example.com/v1/canvas
-  tags:
-  - canvas
-  - graphics
-  - filters
-  - effects
-  properties:
-  - type: Documentation
-    url: https://docs.matisse.example.com/canvas
-  - type: OpenAPI
-    url: https://api.matisse.example.com/v1/canvas/openapi.json
-  - type: Pricing
-    url: https://matisse.example.com/pricing
-  contact:
-  - type: Support
-    url: https://matisse.example.com/support
-- name: Matisse Gallery API
-  description: Manage and display artwork collections and exhibitions
-  humanUrl: https://matisse.example.com/gallery
-  baseUrl: https://api.matisse.example.com/v1/gallery
-  tags:
-  - gallery
-  - artwork
-  - collections
-  - exhibitions
-  properties:
-  - type: Documentation
-    url: https://docs.matisse.example.com/gallery
-  - type: OpenAPI
-    url: https://api.matisse.example.com/v1/gallery/openapi.json
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+common: []
 maintainers:
-- type: GitHub
-  url: https://github.com/matisse-api
-common:
-- type: Terms of Service
-  url: https://matisse.example.com/terms
-- type: Privacy Policy
-  url: https://matisse.example.com/privacy
-- type: Status
-  url: https://status.matisse.example.com
-- type: Blog
-  url: https://blog.matisse.example.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
